@@ -1,0 +1,17 @@
+/* ERRORS */
+ul.iw-errors {
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid #FF0000;
+    line-height:25px;
+    color:#FF0000;
+    background-color:#FFCCCC;
+    padding: 10px 0px;
+    list-style: none;
+    text-align:center;
+}
+  
+ul.iw-errors li {
+    margin:0px;
+}

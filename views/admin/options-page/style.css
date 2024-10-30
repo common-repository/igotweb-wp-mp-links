@@ -1,0 +1,24 @@
+.admin-options-page .logo {
+    position: absolute;
+    top:7px;
+    right:0;
+    height:40px;
+}
+
+.admin-options-page h3 {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.admin-options-page .iw-warning {
+    display:inline-block;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 5px;
+    border:1px solid #FFAA00;
+    color:#FFAA00;
+}
+
+.admin-options-page .iw-warning i {
+    margin-right: 5px;
+}

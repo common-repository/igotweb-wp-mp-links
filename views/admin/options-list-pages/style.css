@@ -1,0 +1,16 @@
+.admin-options-list-pages .iw-description {
+    display:block;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 5px;
+}
+ 
+ .admin-options-list-pages .iw-page {
+     display:block;
+     margin-bottom: 5px;
+ }
+
+ .admin-options-list-pages .iw-page .remove {
+    margin-left:10px;
+ }
